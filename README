@@ -1,8 +1,0 @@
-Code for the paper "Pessimistic policy iteration with bounded uncertainty".
-BUP is an uncertainty-based offline RL algorithm based on TD3 algorithm.
-
-This code is built on the official TD3+BC[1] repository and referred to the EDAC[2] code.
-[1] Fujimoto, S. and Gu, S. S. A minimalist approach to offline reinforcement learning. Advances in neural information processing systems, 34:20132–20145, 2021.
-[2] An, G., Moon, S., Kim, J.-H., and Song, H. O. Uncertainty-based offline reinforcement learning with diversified q-ensemble. Advances in neural information processing systems, 34:7436–7447, 2021.
-
-Run main_uncertain.py to reproduce the results of BUP algorithm.
